@@ -1,15 +1,19 @@
 // Inside src/components/Shuffle/Shuffle.js
 
 import React from 'react';
-import shuffle from '../../img/shuffle.svg'; 
+import shuffle from '../../img/sq_shuffle.svg'; 
+import './Shuffle.css';
 
 const Shuffle = ({ children, ...rest }) => {
   return (
-    <Shuffle className="Shuffle" {...rest}>
+    <Shuffle className="shuffle" {...rest}>
       { children }
-      <img src={shuffle} alt="Shuffle" />
+      <div className="container">
+        <img src={shuffle} alt="Shuffle" className="icon" />
+      </div>
     </Shuffle>
   )
 }
 
 export default Shuffle;
+

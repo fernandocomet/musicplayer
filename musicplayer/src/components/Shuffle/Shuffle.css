@@ -1,0 +1,21 @@
+.shuffle{
+    cursor: pointer;
+}
+
+.shuffle:hover {
+    fill: #D99197;
+}
+
+.container{
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    background-color: #1F2021;
+}
+
+.icon{
+
+}
