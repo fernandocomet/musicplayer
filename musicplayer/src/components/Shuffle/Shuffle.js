@@ -6,12 +6,12 @@ import './Shuffle.css';
 
 const Shuffle = ({ children, ...rest }) => {
   return (
-    <Shuffle className="shuffle" {...rest}>
+    <div className="shuffle" {...rest}>
       { children }
       <div className="container">
         <img src={shuffle} alt="Shuffle" className="icon" />
       </div>
-    </Shuffle>
+    </div>
   )
 }
 
