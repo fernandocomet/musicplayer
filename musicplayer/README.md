@@ -54,8 +54,8 @@ See at [https://t.maze.design/21442572]
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 I am also using Storybook to make styled components.
 Project is at Github [https://github.com/fernandocomet/musicplayer/]
-Also at Netlify 
-Storybook at 
+Also at Netlify [https://musicplayer-exercise.netlify.app/]
+Storybook at [https://www.chromatic.com/builds?appId=5fa6d510c95aa600213d7c23]
 
 ## Available Scripts
 
