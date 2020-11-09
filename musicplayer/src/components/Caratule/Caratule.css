@@ -7,12 +7,12 @@
     background-color: #1F2021;
     width: 300px;
     height: 45px;
-
 }
 .cover{
     border: solid 1px white;
     width: 40px;
     height:45px;
+    cursor: pointer;
   }
 .titles{
     display: flex;
@@ -22,6 +22,7 @@
     align-items: flex-start; 
     color: white;   
     padding-left: 5px;
+    cursor: pointer;
 }
 
 .titles .song{

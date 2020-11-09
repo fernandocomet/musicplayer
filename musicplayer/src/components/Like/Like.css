@@ -10,4 +10,5 @@
     align-items: center; 
     justify-content: center;
     background-color: #1F2021;
+    cursor: pointer;
 }
