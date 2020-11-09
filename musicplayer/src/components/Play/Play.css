@@ -1,10 +1,10 @@
-.shuffle{
+.play{
     cursor: pointer;
 }
 
 .container{
-    width: 16px;
-    height: 16px;
+    width: 30px;
+    height: 30px;
     /* position: absolute; */
     display: flex; 
     align-items: center; 

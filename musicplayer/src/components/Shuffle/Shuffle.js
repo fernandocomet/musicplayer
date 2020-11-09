@@ -2,6 +2,7 @@
 
 import React from 'react';
 import shuffle from '../../img/sq_shuffle.svg'; 
+import shuffle_ko from '../../img/sq_shuffle_ko.svg';
 import './Shuffle.css';
 
 const Shuffle = ({ children, ...rest }) => {
