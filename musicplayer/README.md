@@ -1,6 +1,56 @@
-# Getting Started with Create React App
+# Getting Started Planning
+First thing I did was creating a Trello Board to go on with the project. 
+You can see is at [https://trello.com/b/pbhosD7k/musicplayer]
+I identified these main tasks:
+- Research
+- Sketchin
+- Prototype
+- Design
+- Code
+- Documentation
+- Test
+- Deadline
 
+Also I used Pomorello Power-up to track time [https://trello.com/power-ups/5d467a0fcfcb5e720c2cf941/pomorello]
+
+# Research
+I identified 8 main music players for deskto. See [https://www.pinterest.es/fernandocomet/web-music-players/]
+From this point I analized main component, its distribution and behauvior. See spreedsheet at [https://docs.google.com/spreadsheets/d/1Ei1NC8mF7izq5DfG_4_MMb67eAXKEJ-jgyG2d8UpB80/edit?usp=sharing]
+
+These are main conclussions:
+- Player is either on Left or Center
+- Loop & Shuffle use to go with player
+- Caratule is usually on the left with the beginning of the timeline
+- Timeline is Center, Full Screen or Left
+- Like button is near Catatule or timeline
+- Volume is on the right
+- Queue or Menu are on the right
+
+Made some sketchin to identify components on different players, main components are:
+- Player (rewind, play-pause, forward)
+- Loop, Shuffle 
+- Love (Like)
+- Caratule (Cover + Song & Title)
+- Time (elapsed time - total time)
+- Timeline (Music progress)
+- Volume
+- Menu
+
+# Prototyping & Design
+I used Spotify UI Kit [https://www.sketchappsources.com/free-source/3108-spotify-music-mac-app-ui-sketch-freebie-resource.html] as it has almost every component identified in Research.
+
+Also made the color palette at [https://coolors.co/f5f2f3-1f2021-807c7c-bf667f-d99197] from the design given.
+
+I made some different designs, my aim is to test them or ask users to choose one and why, could do for example a MazeDesign Survey. Mainly I am working with atomic components so once I have them, is just about styles.
+
+
+
+# Code
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I am also using Storybook to make styled components
+Project is at Github [https://github.com/fernandocomet/musicplayer/]
+Also at Netlify 
+Storybook at 
 
 ## Available Scripts
 
