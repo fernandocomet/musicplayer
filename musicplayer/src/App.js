@@ -9,6 +9,7 @@ import Next from './components/Next';
 import Time from './components/Time';
 import Caratule from './components/Caratule';
 import Like from './components/Like';
+import Volume from './components/Volume';
 import Menu from './components/Menu';
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
         <Time></Time>
         <Caratule></Caratule>
         <Like></Like>
+        <Volume></Volume>
         <Menu></Menu>
       </header>
     </div>
