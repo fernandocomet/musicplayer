@@ -41,7 +41,7 @@ I used Spotify UI Kit [https://www.sketchappsources.com/free-source/3108-spotify
 
 Also made the color palette at [https://coolors.co/f5f2f3-1f2021-807c7c-bf667f-d99197] from the design given.
 
-I made some different designs, my aim is to test them or ask users to choose one and why, could do for example a MazeDesign Survey. Mainly I am working with atomic components so once I have them, is just about styles.
+I made some different designs, my aim is to test them or ask users to choose one and why, could do for example a MazeDesign Survey. Mainly I am working with atomic components so once I have them, is just about styles. ![Guide](https://raw.githubusercontent.com/fernandocomet/musicplayer/master/musicplayer/src/img/readme_img/guide.png)
 
 
 
