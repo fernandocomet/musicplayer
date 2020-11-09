@@ -1,6 +1,7 @@
 # Getting Started Planning
 First thing I did was creating a Trello Board to go on with the project. 
 You can see is at [https://trello.com/b/pbhosD7k/musicplayer]
+![TrelloBoard](https://raw.githubusercontent.com/fernandocomet/musicplayer/master/musicplayer/src/img/readme_img/trello_musicplayer.png)
 I identified these main tasks:
 - Research
 - Sketchin
@@ -41,13 +42,17 @@ I used Spotify UI Kit [https://www.sketchappsources.com/free-source/3108-spotify
 
 Also made the color palette at [https://coolors.co/f5f2f3-1f2021-807c7c-bf667f-d99197] from the design given.
 
-I made some different designs, my aim is to test them or ask users to choose one and why, could do for example a MazeDesign Survey. Mainly I am working with atomic components so once I have them, is just about styles. ![Guide](https://raw.githubusercontent.com/fernandocomet/musicplayer/master/musicplayer/src/img/readme_img/guide.png)
+I made some different designs, my aim is to test them or ask users to choose one and why. 
+Mainly I am working with atomic components so once I have them, is just about styles. ![Guide](https://raw.githubusercontent.com/fernandocomet/musicplayer/master/musicplayer/src/img/readme_img/guide.png)
+
+With this on mind we can make a short testing to verify opinions. I am using MazeDesign Survey:
+See at [https://t.maze.design/21442572]
 
 
 
 # Code
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-I am also using Storybook to make styled components
+I am also using Storybook to make styled components.
 Project is at Github [https://github.com/fernandocomet/musicplayer/]
 Also at Netlify 
 Storybook at 
